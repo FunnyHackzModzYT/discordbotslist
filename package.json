@@ -1,0 +1,47 @@
+{
+  "_from": "discordbotslist.com-fixed@^1.0.0",
+  "_id": "discordbotslist.com-fixed@1.0.9",
+  "_inBundle": false,
+  "_integrity": "sha512-Ojr1H+b1ZY89jlnL+ajveIsqIxc0JPYpR8QUJE8iKdr9N0KjiQ9urMdBBck/0RkMvaM01aV0Yl7rsW36Q5PYug==",
+  "_location": "/discordbotslist.com-fixed",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "discordbotslist.com-fixed@^1.0.0",
+    "name": "discordbotslist.com-fixed",
+    "escapedName": "discordbotslist.com-fixed",
+    "rawSpec": "^1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/discordbotslist.com-fixed/-/discordbotslist.com-fixed-1.0.9.tgz",
+  "_shasum": "f1cf111a3b48364ce32d287f9fc3248f648e2c8d",
+  "_spec": "discordbotslist.com-fixed@^1.0.0",
+  "_where": "C:\\Users\\Administrator\\Desktop\\Projects\\Bot",
+  "author": {
+    "name": "Solar, Kaan"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "deprecated": false,
+  "description": "API wrapper for discordbotslist.com-fixed",
+  "keywords": [
+    "discord",
+    "bot",
+    "discord",
+    "bots"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "discordbotslist.com-fixed",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.9"
+}
